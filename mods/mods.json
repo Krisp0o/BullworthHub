@@ -3,12 +3,15 @@
     {
       "nome": "Item 1",
     },
-	    {
+    {
       "nome": "Item 2",
     },
     {
       "nome": "Item 3",
-      "descricao": "Descrição do Item 3",
+    },
+    {
+      "nome": "Item 4",
+      "descricao": "Descrição do Item 4",
       "icone": "https://m.media-amazon.com/images/I/71+mDoHG4mL.png",
       "imagens": [
         "imagem1_item3.png"
